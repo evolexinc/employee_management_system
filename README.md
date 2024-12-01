@@ -4,3 +4,10 @@
 <b>Developer : Utkarsh Kumar (Diplomatic SWE ) </b><br/>
 -----------------------------------------------------<br/>
 <marquee> Requirement for run the project offline </marquee><br/>
+```
+apt install python3
+```
+Now install <b><i>Django via</i></b> <b>pip<b>
+```
+pip install django
+```
